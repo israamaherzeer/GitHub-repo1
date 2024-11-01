@@ -1,0 +1,6 @@
+ISRAA ZEER
+git init
+git add Israa.txt
+git commit -m "first commit"
+git remote add origin https://github.com/israamaherzeer/GitHub-repo1.git
+git push -u origin master
